@@ -1,0 +1,2 @@
+# duckr
+React/Redux app
